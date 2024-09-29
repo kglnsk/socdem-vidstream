@@ -3,7 +3,7 @@
 pip install requirements.txt
 ```
 ## Ноутбуки
-ptls-train: описывает обучение модели pytorch-lifestream
+ptls-train: описывает обучение модели pytorch-lifestream на всех данных взаимодействий в режиме обучения без учителя
 
 ptls-infer: описывает использование эмбеддингов в задачах классификации
 
