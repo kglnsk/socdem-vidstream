@@ -12,3 +12,5 @@ new-feats: генерация признаков и интерпретация �
 ## Артефакты
 preprocessor - токенизатор pytorch-lifestream
 coles - модель pytorch-lifestream
+
+![Scheme](scheme.png)
